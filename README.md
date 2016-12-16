@@ -1,2 +1,2 @@
-# infografias
-Infografias generadas en el laboratorio
+# Material didáctico
+Material didáctico generado en el laboratorio
