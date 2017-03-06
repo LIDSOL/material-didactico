@@ -1,6 +1,6 @@
-![alt text][logo_gnu]
+![Logo del proyecto GNU][logo_gnu]
 
-[logo_gnu]: ./material/official%20gnu.svg "Logo del proyecto GNU"
+[logo_gnu]: ./material/official%20gnu.png "Logo del proyecto GNU"
 
 
 #Anuncio inicial
@@ -74,7 +74,7 @@ El texto fue enviado a dos grupos de noticias con el asunto "nueva implementaci√
 
 Formalmente el proyecto GNU inicio en enero de 1984.
 
-![alt text][logo_lidsol]
+![Logo del LIDSOL][logo_lidsol]
 
 [logo_lidsol]: ./material/logo-transparente.png "Logo del LIDSOL"
 
