@@ -3,7 +3,7 @@
 [logo_gnu]: ./material/official%20gnu.png "Logo del proyecto GNU"
 
 
-#Anuncio inicial
+# Anuncio inicial
 
 De CSvax:pur-ee:inuxc!ixn5c!ihnp4!houxm!mhuxi!eagle!mit-vax!mit-eddie!RMS@MIT-OZ
 
@@ -66,7 +66,7 @@ Richard Stallman
 
 Cambridge, MA 02139
 
-#¿Qué es esto?
+# ¿Qué es esto?
 
 El texto anterior es el anuncio original del proyecto GNU, enviado por Richard Stallman el 27 de septiembre de 1983.
 
@@ -78,7 +78,7 @@ Formalmente el proyecto GNU inicio en enero de 1984.
 
 [logo_lidsol]: ./material/logo-transparente.png "Logo del LIDSOL"
 
-#Ok, ¿Y?
+# Ok, ¿Y?
 
 Bien, tal vez en este momento te estés haciendo algunas preguntas, ¿qué es el proyecto GNU?, ¿quién es Richard Stallman?, ¿qué es UNIX?, ¿qué es el software libre?, ¿por qué Stallman pide donaciones de programas, equipos o dinero para su proyecto?, ¿qué es EMACS o LISP?, ¿qué es todo eso de compiladores o intérpretes?, ¿qué tiene que ver un sujeto del laboratorio de Inteligencia Artificial del MIT en una revista como el Nigromante?
 
@@ -99,12 +99,12 @@ Para saber mas sobre el LIDSOL puedes ingresar a nuestro sitio web:
 
 *Sebastian Aguilar, LIDSOL, 06 de Marzo del 2017.*
 
-#Notas al editor
+# Notas al editor
 - De ser posible, dar formato al texto ''Anuncio inicial'' como una entrada de un [grupo de noticias](https://es.wikipedia.org/wiki/Grupo_de_noticias).
 - Esperamos que el texto ''Anuncio inicial" pueda aparecer en una página completa, ya sea utilizando tal vez el formato de doble columna para que este aparezca en una sola página.
 - Los otros dos textos (''¿Qué es esto?'' y ''Ok, ¿Y?'') pueden aparecer en otra página, de forma encontrada al ''Anuncio inicial'' de tal modo que al tener abierta la revista ambas paginas se puedan leer.
 - En caso de que requieran incluir imágenes, pueden incluir el logo de GNU y el de LIDSOL. Ambas imágenes se encuentran en la carpeta  material.
 - Si el logo del LIDSOL no fuera adecuado para usarse, favor de decirnos para hacer las adecuaciones necesarias.
 
-#Referencias
+# Referencias
 - [Anuncio inicial](https://www.gnu.org/gnu/initial-announcement.es.html)
