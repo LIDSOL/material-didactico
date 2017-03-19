@@ -1,8 +1,8 @@
-#Nigromante
+# Nigromante
 
 Sección dedicada al material para publicaciones que se realizaran en el [Nigromante](http://www.dcsyhfimapodo.unam.mx/nigromante/).
 
-##Estructura del directorio.
+## Estructura del directorio.
 - año_mes
     - seriacion_nombre_publicacion
         - material
@@ -16,7 +16,7 @@ Dentro de cada carpeta de año y mes se guardara el material correspondiente a c
 
 Dentro de cada publicación se guardara el material utilizado (imágenes, archivos fuentes de imágenes, ect.) junto con un archivo README.md que contendrá el texto de la publicación.
 
-###Ejemplo
+### Ejemplo
 
 - 2017_marzo
     - 01_lidsol
