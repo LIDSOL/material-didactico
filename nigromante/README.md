@@ -2,6 +2,43 @@
 
 Sección dedicada al material para publicaciones que se realizaran en el [Nigromante](http://www.dcsyhfimapodo.unam.mx/nigromante/).
 
+## Flujo de trabajo.
+
+> (2 semanas)  :clock230:
+
+> - Elección de tema a desarrollar.
+
+> - Investigación sobre el tema a desarrollar (y elección de 3 citas).
+
+> - Redacción del tema a desarrollar.
+
+> (2 semanas)  :clock230:
+
+ - Entrega de borrador.  :boom:
+
+> (3 días)  :clock830:
+
+> - Leer artículos de los demás.
+
+> (3 días)  :clock830:
+
+ - Junta para comentarios.  :boom:
+
+> (1 semana)  :clock930:
+
+> - Depuración.
+
+> (1 semana)  :clock930:
+
+ - Entrega local.  :boom:
+ - Entrega en Github.  :exclamation:
+
+### Pautas para ayudar al escritor.  :purple_heart:
+
+1. Elige el tipo.
+2. Elige el tono.
+3. Extensión <= 500 palabras.
+
 ## Estructura del directorio.
 - año_mes
     - seriacion_nombre_publicacion
