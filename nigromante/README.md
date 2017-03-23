@@ -4,26 +4,26 @@ Sección dedicada al material para publicaciones que se realizaran en el [Nigrom
 
 ## Flujo de trabajo.
 
-> 
+>  :clock230: Se tienen 2 semanas para: 
 >- Elección de tema a desarrollar.
 >- Investigación sobre el tema a desarrollar (y elección de 3 citas).
 >- Redacción del tema a desarrollar.
 
-:boom: Al final de ese lapso hay:
- - Entrega de borrador. 
+ Al final de ese lapso hay:
+ :boom: Entrega de borrador. 
 
 > :clock230: Se tienen 3 días para: 
 >- Leer artículos de los demás.
 
-:boom: Al final de ese lapso hay:
-- Junta para comentarios.  
+Al final de ese lapso hay:
+:boom: Junta para comentarios.  
 
 > :clock230: Se tiene 1 semana para: 
 >- Depuración.
 
-:boom: Al final de ese lapso hay:
- - Entrega local. :boom:
- - Entrega en Github. :exclamation:
+Al final de ese lapso hay:
+ :boom: Entrega local. 
+ :exclamation: Entrega en Github. 
 
 ### Pautas para ayudar al escritor.  
 
