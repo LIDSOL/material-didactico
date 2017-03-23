@@ -5,26 +5,21 @@ Sección dedicada al material para publicaciones que se realizaran en el [Nigrom
 ## Flujo de trabajo.
 
 > (2 semanas)  :clock230:
-- Elección de tema a desarrollar.
-- Investigación sobre el tema a desarrollar (y elección de 3 citas).
-- Redacción del tema a desarrollar.
-
+>- Elección de tema a desarrollar.
+>- Investigación sobre el tema a desarrollar (y elección de 3 citas).
+>- Redacción del tema a desarrollar.
 > (2 semanas)  :clock230:
 
  - Entrega de borrador.  :boom:
 
 > (3 días)  :clock830:
-
-- Leer artículos de los demás.
-
+>- Leer artículos de los demás.
 > (3 días)  :clock830:
 
 - Junta para comentarios.  :boom:
 
 > (1 semana)  :clock930:
-
-- Depuración.
-
+>- Depuración.
 > (1 semana)  :clock930:
 
  - Entrega local.  :boom:
