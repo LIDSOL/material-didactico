@@ -9,21 +9,21 @@ Sección dedicada al material para publicaciones que se realizaran en el [Nigrom
 >- Investigación sobre el tema a desarrollar (y elección de 3 citas).
 >- Redacción del tema a desarrollar.
 
- - Entrega de borrador.  :boom:
+ - Entrega de borrador. (Fecha específica) :boom:
 
 > (3 días)  :clock830:
 >- Leer artículos de los demás.
 
-- Junta para comentarios.  :boom:
+- Junta para comentarios.  (Fecha específica) :boom:
 
 > (1 semana)  :clock930:
 >- Depuración.
 
 
- - Entrega local.  :boom:
- - Entrega en Github.  :exclamation:
+ - Entrega local. (Fecha específica) :boom:
+ - Entrega en Github. (Fecha específica) :exclamation:
 
-### Pautas para ayudar al escritor.  :purple_heart:
+### Pautas para ayudar al escritor.  
 
 1. Elige el tipo.
 2. Elige el tono.
