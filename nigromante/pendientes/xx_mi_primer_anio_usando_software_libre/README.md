@@ -13,14 +13,14 @@ Al inicio fue distinto a lo que normalmente estaba acostumbrado, pero finalmente
 
 ![Kubuntu][kubuntu]
 
-[kubuntu]: ./material/kubuntu-16-04.jpeg "Kubuntu"
+[kubuntu]: ./material/Screenshot_20171106_233906.png "Kubuntu"
 
  
 Lo interesante vino después cuando comencé a explorar las opciones que el software libre me podía proporcionar para satisfacer lo que yo esperaba de un equipo, el poder dibujar en 2D y 3D. Es en este momento cuando encontré varios programas maravillosos de los cuales no había escuchado o había escuchado muy poco. El primero de ellos es OpenSCAD el cual es un un programa de dibujo parametrizable con un entorno de código, a diferencia de un programa tradicional de dibujo, en OpenSCAD se tiene un "script" en dónde se pueden dibujar objetos 2D y 3D además de que tus creaciones son parametrizables y ¡pueden adaptarse fácilmente a los cambios! Pero había algunas veces en las que necesitaba usar AutoCAD como lo usaba tradicionalmente, y para eso encontré un programa llamado LibreCAD, el cual, tiene una interfaz sencilla y muy completa, altamente personalizable, y si no va dirigido a un público experto en el dibujo vectorial, puede usarse con mucha facilidad y editar dibujos sin la necesidad de usar AutoCAD. Y el último programa que encontré para diseño 3D pero no menos importante fue Blender. Éste programa está orientado a la animación y al desarrollo de videojuegos, es altamente personalizable y tiene una infinidad de herramientas que te permiten manipular con mucha facilidad objetos en 3D, editarlos, animarlos y volverlos parte de tu propio videojuego, ¡la imaginación es el límite!
 
 ![Kubuntu][kubuntu]
 
-[kubuntu]: ./material/kubuntu-16-04.jpeg "Kubuntu"
+[kubuntu]: ./material/Screenshot_20171106_234201.png "Kubuntu"
  
 A diferencia de lo que me había imaginado, el usar software libre no fue un paso hacia atrás sino un gigantesco paso hacia adelante, aprendí mucho sobre paquetería que nunca había escuchado hablar, y sobre todo de programas que me enseñaron formas diferentes de hacer lo que ya hacía. Puedo decir sin temor a equivocarme de que al igual que yo, cualquier persona interesada en comenzar a utilizar software libre puede encontrar alternativas libres y abiertas que le sean de utilidad. La pregunta que me surgió cuando hice este descubrimiento fue ¿Si todo esto es tan bueno, entonces porqué no es tan popular el software libre? Entonces le hice esta pregunta a mis amigos y busqué en Internet sobre el tema, y lo que encontré fue la filosofía sobre el Software Libre y las libertades que un programa debe tener para que éste pueda ser llamado así. 
  
