@@ -51,13 +51,13 @@ Puedo decir sin temor a equivocarme de que al igual que yo, cualquier persona in
 
 
 
-**Muchos de los programas privativos no cumplen con las libertades del software libre, y eso hace que los programas dominen a los usuarios cuando lo correcto sería que los usuarios dominen al los programas. 
+**Muchos de los programas privativos no cumplen con las libertades del software libre, y eso hace que los programas dominen a los usuarios cuando lo correcto sería que los usuarios dominen al los programas.**
 
-El usar software libre te otorga la libertad de contribuir con la comunidad y de no estar a merced de los desarrolladores del programa, de hecho por el contrario, cualquier usuario puede volverse contribuidor de código  generando un enriquecimiento y una mejor experiencia de uso.
+**El usar software libre te otorga la libertad de contribuir con la comunidad y de no estar a merced de los desarrolladores del programa, de hecho por el contrario, cualquier usuario puede volverse contribuidor de código  generando un enriquecimiento y una mejor experiencia de uso.**
 
-El software libre sigue desarrollándose y creciendo, se encuentra en los servidores de grandes corporaciones, en proyectos de emprendimiento, incluso dentro de tu bolsillo, y es por eso que deberías de emprender la aventura de conocer experiencias nuevas con programas que podrían otorgar más que los que te encuentras actualmente usando.
+**El software libre sigue desarrollándose y creciendo, se encuentra en los servidores de grandes corporaciones, en proyectos de emprendimiento, incluso dentro de tu bolsillo, y es por eso que deberías de emprender la aventura de conocer experiencias nuevas con programas que podrían otorgar más que los que te encuentras actualmente usando.**
 
-Una pregunta que me surgió después de este año utilizando Software libre fue "¿Si todo esto es tan bueno, entonces porqué no es tan popular el software libre?"
+**Una pregunta que me surgió después de este año utilizando Software libre fue "¿Si todo esto es tan bueno, entonces porqué no es tan popular el software libre?"
 ¿Cuál crees tú que es la respuesta, lector?**
 
 ![Aprobado][approval]
