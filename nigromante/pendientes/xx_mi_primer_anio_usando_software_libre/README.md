@@ -1,4 +1,4 @@
-
+﻿
 # Mi primer año usando Software Libre
 
 Cuando estás por entrar a la universidad varias preguntas se hacen importantes al momento de comprar una computadora, por ejemplo, ¿puede ejecutar el programa que necesito sin errores y sin trabarse?, ¿va a durar toda la carrera?, ¿tiene Office completo?, etc. Son preguntas simples, que puedes resolver en Internet, pero la pregunta correcta sería, ¿en realidad necesitamos lo que la bandera de colores y la manzana nos venden?
@@ -35,7 +35,7 @@ Lo interesante vino después, cuando comencé a explorar las opciones que el sof
 
 El primero de ellos es OpenSCAD, el cual es un un programa de dibujo parametrizable con un entorno de código, a diferencia de un programa tradicional de dibujo, en OpenSCAD se tiene un "script" en dónde se pueden dibujar objetos 2D y 3D además de que tus creaciones son parametrizables es decir, ¡pueden adaptarse fácilmente a los cambios!, (no más redibujar si alguna medida cambia).
 
-Y aunque me enamore de OpenSCAD había algunas veces en las que necesitaba usar AutoCAD como lo usaba tradicionalmente, y para eso encontré un programa llamado LibreCAD, el cuál, tiene una interfaz sencilla y muy completa, altamente personalizable, lo que hace que puede usarse con mucha facilidad y editar dibujos sin la necesidad de usar AutoCAD. 
+Y aunque me enamoré de OpenSCAD había algunas veces en las que necesitaba usar AutoCAD como lo usaba tradicionalmente, y para eso encontré un programa llamado LibreCAD, el cuál, tiene una interfaz sencilla y muy completa, altamente personalizable, lo que hace que puede usarse con mucha facilidad y editar dibujos sin la necesidad de usar AutoCAD. 
 
 El último programa que encontré para diseño 3D, pero no menos importante, fue Blender. Este programa está orientado a la animación y al desarrollo de videojuegos, también es altamente personalizable y tiene una infinidad de herramientas que te permiten manipular con mucha facilidad objetos en 3D, editarlos, animarlos y volverlos parte de tu propio videojuego, ¡la imaginación es el límite!
 
@@ -45,7 +45,7 @@ El último programa que encontré para diseño 3D, pero no menos importante, fue
  
 Después de todo lo que descubrí, me dí cuenta de que a diferencia de lo que me había imaginado, el usar software libre no fue un paso hacia atrás sino un gigantesco paso hacia adelante, pues aprendí mucho sobre paquetería que nunca había escuchado hablar, y sobre todo, descubrí programas que me enseñaron formas diferentes de hacer lo que ya hacía. 
 
-Puedo decir sin temor a equivocarme de que al igual que yo, cualquier persona interesada en comenzar a utilizar software libre puede encontrar alternativas libres y abiertas que le sean de utilidad. Que quizás encuentré programas que hagan de manera distinta (pero más eficiente) lo que ya hacen.
+Puedo decir sin temor a equivocarme de que al igual que yo, cualquier persona interesada en comenzar a utilizar software libre puede encontrar alternativas libres y abiertas que le sean de utilidad. Que quizás encuentre programas que hagan de manera distinta (pero más eficiente) lo que ya hacen.
 
 
 
@@ -55,7 +55,7 @@ Puedo decir sin temor a equivocarme de que al igual que yo, cualquier persona in
 
 **El software libre sigue desarrollándose y creciendo, se encuentra en los servidores de grandes corporaciones, en proyectos de emprendimiento, incluso dentro de tu bolsillo, y es por eso que deberías de emprender la aventura de conocer experiencias nuevas con programas que podrían otorgar más que los que te encuentras actualmente usando.**
 
-#### **Y a pesar de todo lo que he descubierto este año, sigo preguntandome ¿Por qué el Software Libre no es tan popular?**
+#### **Y a pesar de todo lo que he descubierto este año, sigo preguntándome ¿Por qué el Software Libre no es tan popular?**
 
 ![Aprobado][approval]
 
