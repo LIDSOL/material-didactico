@@ -63,6 +63,3 @@ Puedo decir sin temor a equivocarme de que al igual que yo, cualquier persona in
 
 Autor: Pablo Vivar Colina de LIDSOL.
 
-**Comentarios:**
-
-- Poner el logo de LIDSOL en inkscape en el escritorio?
