@@ -11,8 +11,6 @@ Como muchos al entrar a la carrera tuve las mismas preguntas, y las respondí de
 
 Al pasar tiempo en la carrera, conocí a varias personas interesadas en la elaboración de proyectos, entre ellos estaba un gran amigo, Sebastian Aguilar, quién me habló sobre el software libre, sus ventajas, y porqué las personas deberíamos usarlo en lugar de programas privativos.
 
-
-
 Para que un software pueda ser llamado libre (y no privativo) debe seguir la filosofía sobre el Software Libre y las libertades que un programa debe tener para que éste pueda ser llamado así. 
  
 Aunque había escuchado de las libertades del software libre, no las comprendí hasta que me fui adentrando un poco más en éste mundo (a lo largo de un año), ¿Pero cuáles son éstas? Se estarán preguntando, según la Free Software Fundation (Fundación del Software Libre) explica que son cuatro libertades fundamentales y son las siguientes: La primera es la libertad de usar el programa con cualquier propósito, la segunda es la libertad de estudiar cómo funciona el programa y así poder modificarlo, la tercera es la libertad de distribuir copias del programa y la última libertad es la de mejorar el programa y hacer públicas esas mejoras a los demás, de modo que toda la comunidad se beneficie.
@@ -47,7 +45,7 @@ El último programa que encontré para diseño 3D, pero no menos importante, fue
  
 Después de todo lo que descubrí, me dí cuenta de que a diferencia de lo que me había imaginado, el usar software libre no fue un paso hacia atrás sino un gigantesco paso hacia adelante, pues aprendí mucho sobre paquetería que nunca había escuchado hablar, y sobre todo, descubrí programas que me enseñaron formas diferentes de hacer lo que ya hacía. 
 
-Puedo decir sin temor a equivocarme de que al igual que yo, cualquier persona interesada en comenzar a utilizar software libre puede encontrar alternativas libres y abiertas que le sean de utilidad. Que quizás encuentré programas que hagan de manera distinta (pero más eficiente) lo que ya hace.
+Puedo decir sin temor a equivocarme de que al igual que yo, cualquier persona interesada en comenzar a utilizar software libre puede encontrar alternativas libres y abiertas que le sean de utilidad. Que quizás encuentré programas que hagan de manera distinta (pero más eficiente) lo que ya hacen.
 
 
 
@@ -57,8 +55,7 @@ Puedo decir sin temor a equivocarme de que al igual que yo, cualquier persona in
 
 **El software libre sigue desarrollándose y creciendo, se encuentra en los servidores de grandes corporaciones, en proyectos de emprendimiento, incluso dentro de tu bolsillo, y es por eso que deberías de emprender la aventura de conocer experiencias nuevas con programas que podrían otorgar más que los que te encuentras actualmente usando.**
 
-**Una pregunta que me surgió después de este año utilizando Software libre fue "¿Si todo esto es tan bueno, entonces porqué no es tan popular el software libre?"
-¿Cuál crees tú que es la respuesta, lector?**
+#### **Y a pesar de todo lo que he descubierto este año, sigo preguntandome ¿Por qué el Software Libre no es tan popular?**
 
 ![Aprobado][approval]
 
