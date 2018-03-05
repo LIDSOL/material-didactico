@@ -16,8 +16,8 @@ LIDSOL y el Nigromante mantienen una buena comunicación, de ahí sabemos las si
 - El Nigromante elige una temática mensual y sus artículos giran en torno a ella.
 - El Nigromante tiene fechas clave para que sus publicaciones estén listas a tiempo.
 
-Mes de publicación       | Tema    | Artículos propuestos por LIDSOL | Fechas de recepción interna| Fechas de recepción del Nigromante|
-----------|---------|---------------------------------
+Mes de publicación       | Tema    | Artículos propuestos por LIDSOL | Fechas de recepción interna| Fechas de recepción del Nigromante
+----------|---------|---------------------------------|-|-
 Abril     |Mascotas | Mascotas del mundo FOSS|1-5 Marzo| 6-9 Marzo
 Mayo      |Internet | ¿Qué es #NetNeutrality?, Capas del Internet y la Red Tor|1-5 Abril|6-9 Abril
 Junio     |Elecciones y México| Lugares de México donde ya hay un impacto de FOSS, ¿Por qué elegir tecnologías libres?| 1-5 Mayo|6-9 Mayo
