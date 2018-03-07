@@ -19,11 +19,27 @@ De todas las propuestas que surgieron del concurso, la que más votos a favor tu
 ![10 de junio de 1996](material/tux.png)
 
 
-**Wilber** es la mascota oficial del proyecto GIMP, la alternativa libre a Photoshop. Wilber al igual que Tux ha sido dibujado usando GIMP. Ahora, tomate un tiempo para observarlo, *¿puedes adivinar que animal es?*, coyote, zorro o ratón son los animales más comunes a los que se le asocia, pero según su creador, Wilber es *[redoble de tambores]* **un gimp**, sí así como lo lees, aquí en el mundo del software libre los creadores se pasan de creativos, *¿no crees? xD*
+**Wilber** es la mascota oficial del proyecto GIMP, la alternativa libre a Photoshop. Wilber al igual que Tux ha sido dibujado usando GIMP. Ahora, tomate un tiempo para observarlo, *¿puedes adivinar que animal es?*.
+
+ Coyote, zorro o ratón son los animales más comunes a los que se le asocia, pero según su creador, Wilber es *[redoble de tambores]* **un gimp**, sí, así como lo lees, aquí en el mundo del software libre los creadores se pasan de creativos, *¿no crees? xD*
 
 ![Wilber](material/wilber-gimp.png)
 
-Finalmente, pero no menos importante el logo de Sistema Operativo 
+Finalmente, pero no menos importante (y tristemente a veces un poco ignorada) viene la única mascota de la lista cuyo nombre *estoy segura no podrás adivinar*.
 
+La mascota de la que hablo es un **ñu** y es la mascota representativa del movimiento del software libre (fundado por Richard Stallman) y del proyecto GNU, de donde es su origen, ya que, ñu es gnu en inglés.
+Aprecialo un segundo, *¿qué nombre le pondrías?*
+
+![ñu](material/gnu.png)
+
+*¿Ya tienes uno?*, pues será mejor que vayas a proponerlo a la Free Software Fundation, porque esta mascota es la única de la lista que no tiene un nombre, *te dije que no lo podrías adivinar*.
+
+Me despido por ahora, esperando haberte dejado un momento grato mientras conocías otro poquito sobre el software libre.
+
+PD. Por si crees que no gané la apuesta te dejo aquí una imagen de Tux, *¿A qué lo habías visto al menos una vez?*
+
+![linux-tux](material/tux-face.png)
+
+PD.PD. No olvides pasarte por todas las redes sociales de LIDSOL o si tienes alguna duda, no dudes en pasar a visitarnos, con gusto te atenderemos.
 [Referencia 1](http://vivaelsoftwarelibre.com/la-mascota-de-linux-es-un-pinguino/)
 [Referencia 2]()
