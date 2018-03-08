@@ -9,7 +9,7 @@ El LIDSOL busca dilvulgar las tecnologías libres y creemos que el Nigromante es
 
 ## ¿Cómo puedo colaborar?
 Colaborar es muy sencillo, lo único que debes hacer es escribir un artículo afín al software/tecnologías/cultura libres.
-Para ello, se necesita que elijas un tema y se lo comuniques a @yesn7 y que tu artículo este listo en las fechas indicadas aquí abajo.
+Para ello, se necesita que elijas un tema y se lo comuniques a [@yesn7](https://github.com/yesn7) y que tu artículo este listo en las fechas indicadas aquí abajo.
 
 ### ¿Cómo elijo el tema?
 LIDSOL y el Nigromante mantienen una buena comunicación, de ahí sabemos las siguientes cosas:
@@ -20,8 +20,8 @@ Mes de publicación       | Tema    | Artículos propuestos por LIDSOL | Fechas 
 ----------|---------|---------------------------------|-|-
 Abril     |Mascotas | Mascotas del mundo FOSS|1-5 Marzo| 6-9 Marzo
 Mayo      |Internet | ¿Qué es #NetNeutrality?, Capas del Internet y la Red Tor|1-5 Abril|6-9 Abril
-Junio     |Elecciones y México| Lugares de México donde ya hay un impacto de FOSS, ¿Por qué elegir tecnologías libres?| 1-5 Mayo|6-9 Mayo
-Julio     |Mundiales| Streaming libre ? / Tema libre | 1-5 Junio|6-9 Junio
+Junio     |Elecciones y México| El voto electrónico es pésima idea| 1-5 Mayo|6-9 Mayo
+Julio     |Mundiales| ¿Qué se necesita para ser un conductor de un programa sobre software libre?| 1-5 Junio|6-9 Junio
 Agosto    |Redes sociales| Redes sociales libres, Alternativas de apps libres, ¿Qué es el zero rating?| 1-5 Julio|6-9 Julio
 Septiembre|A un año del sismo + Lugares bonitos CDMX| Conoce el Rancho Electrónico| 1-5 Agosto|6-9 Agosto
 Octubre   |Mexicanos destacados| Miguel de Icaza|1-5 Septiembre|6-9 Septiembre
@@ -62,8 +62,9 @@ De acuerdo a este flujo se construyo la siguiente tabla:
 
 Escritor| Mes de publicación | Fase 1 | Entregable inicial| Fase 2 | Real. 1| Fase 3| Real. 2| Entregable final
 --------|-------------------|--------|-------------------|--------|-----------------|---------|-----------------|---------------
-@umoqnier | Mayo| 12-23 Marzo| Vi 23 Marzo|26-28 Marzo|Ju 29 Marzo| 29-5 Abril| Ju 5 Abril| Vi 6 Abril
-Disponible| Junio| 9-20 Abril| Vi 20 Abril|23-25 Abril|Ju 26 Abril| 26-3 Mayo| Ju 3 Mayo| Vi 4 Mayo
+[@umoqnier](https://github.com/umoqnier) | Mayo| 12-23 Marzo| Vi 23 Marzo|26-28 Marzo|Ju 29 Marzo| 29-5 Abril| Ju 5 Abril| Vi 6 Abril
+[@emilio1625](https://github.com/emilio1625)| Junio| 9-20 Abril| Vi 20 Abril|23-25 Abril|Ju 26 Abril| 26-3 Mayo| Ju 3 Mayo| Vi 4 Mayo
+[@luztorres](https://github.com/luztorres)| Julio| 7-18 Mayo| Vi 18 Mayo| 21-23 Mayo|Ju 24 Mayo| 24-31 Mayo| Ju 31 Mayo | Vi 1 Junio
 
 
 
@@ -116,4 +117,4 @@ Dentro de cada publicación se guardara el material utilizado (imágenes, archiv
         - README.md
 
 ### ¿Tienes más dudas o deseas colaborar?
-Comunícate con @yesn7, se encuentra en telegram bajo el mismo nickname o pasa a LIDSOL en su horario.
+Comunícate con [@yesn7](https://github.com/yesn7), se encuentra en telegram bajo el mismo nickname o pasa a LIDSOL en su horario.
