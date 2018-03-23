@@ -74,7 +74,7 @@ Escritor| Mes de publicación | Fase 1 | Entregable inicial| Fase 2 | Real. 1| F
 2. Elige el tono.
 3. Extensión <= 500 palabras.
 
-### ¿Las carpetas de este repositorio tienen aluna nomenclutura/estructura?
+### ¿Las carpetas de este repositorio tienen alguna nomenclutura/estructura?
 Sí, tal como se indica a continuación:
 
 #### Estructura del directorio.
