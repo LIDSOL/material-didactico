@@ -3,7 +3,7 @@
 - **Installfest** en el stand de LIDSOL. La actividad consiste en promover el uso e instalación de distribuciones GNU/Linux para
 uso personal y académico. Se asesorará de acuerdo a las necesidades de cada persona cuál es la distribución que más se adecua a ella.
 
-  - [Ver Ver cartel en PDF](./actividades/01_installfest/01-installfest.pdf)
+  - [Ver cartel en PDF](./actividades/01_installfest/01-installfest.pdf)
 
 ![Cartel](./actividades/01_installfest/01-installfest.png)
 
