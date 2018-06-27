@@ -1,9 +1,11 @@
 # Breves reflexiones sobre el voto electrónico
 ## Por Yesica Navarro (@yesn7)
-En este mes de Julio, desde *LIDSOL* queremos hablarte del tan aclamado voto electrónico, (sí, ese del que hablan [aquí](http://www.milenio.com/opinion/julian-german-molina-carrillo/sociedad-derechos-humanos/sistema-de-votacion-electronica-o-voto-electronico), [aquí](https://expansion.mx/tecnologia/2018/06/12/voto-electronico-en-mexico-se-puede-aplicar?internal_source=PLAYLIST) y [aquí](http://www.nacion321.com/elecciones/mexico-ya-ha-votado-en-urnas-electronicas-y-aqui-la-prueba) como si fuera una maravilla, y que debería implementarse lo antes posible por sus múltiples beneficios).
+En este mes, nos quisimos robar el foco en la sección de *Ciencia y Tecnología* y por eso desde *LIDSOL* queremos hablarte del tan aclamado voto electrónico, (sí, ese del que hablan [aquí](http://www.milenio.com/opinion/julian-german-molina-carrillo/sociedad-derechos-humanos/sistema-de-votacion-electronica-o-voto-electronico), [aquí](https://expansion.mx/tecnologia/2018/06/12/voto-electronico-en-mexico-se-puede-aplicar?internal_source=PLAYLIST) y [aquí](http://www.nacion321.com/elecciones/mexico-ya-ha-votado-en-urnas-electronicas-y-aqui-la-prueba) como si fuera una maravilla, y que debería implementarse lo antes posible por sus múltiples beneficios).
 
 El **voto electrónico** es áquel en el que (por más redundante que suene) se utilizan medios electrónicos, lo cuáles se han resaltado en el siguiente diagrama.
+
 ![Principales esquemas de votación empleadas a lo largo de la historia](material/esquemas-votacion.png "Principales esquemas de votación empleadas a lo largo de la historia")
+
  En este mismo diagrama, se puede apreciar que ya hay distintos tipos de **urnas electrónicas**, en un principio por ejemplo, aparecieron las urnas DRE pero pronto, este tipo de urnas fue cuestionado y se *evolucionó* a las VVPAT y así hasta que llegar a la boleta electrónica.
 
 Si te estás preguntando a que nos referimos con *evolucionó*, la respuesta es simple, en la
@@ -26,23 +28,23 @@ Se argumenta así porque las urnas se pueden reutilizar, muy contrario al voto t
 
 2.** Agilidad en la obtención de resultados.**
 
-Esta percepción es así, porque creemos que al realizarse con una computadora todo será más rápido, sin embargo las urnas electrónicas son dispositivos que **no** se conectan a internet [[3]](http://ru.iiec.unam.mx/110/) y por ahora son sólo una herramienta de conteo de votos,  y aún se debe hacer una comunicación manual de los resultados obtenidos por la urna al centro de control de la autoridad electoral, es decir, el tiempo de disminución de proceso electoral son aproximadamente dos horas.
+Esta percepción es así, porque creemos que al realizarse con una computadora todo será más rápido, sin embargo las urnas electrónicas son dispositivos que **no** se conectan a internet [[3]] y por ahora son sólo una herramienta de conteo de votos,  y aún se debe hacer una comunicación manual de los resultados obtenidos por la urna al centro de control de la autoridad electoral, es decir, el tiempo de disminución de proceso electoral son aproximadamente dos horas.
 
 3.** Confiabilidad de los actores.**
 
-En este punto se argumenta que una computadora es más confiable, pero quién argumenta esto, seguramente no es un experto en seguridad, ya que al migrar a este tipo de sistemas se heredan los riesgos operacionales de ciberseguridad (*y sin ir más lejos para no entrar en paranoia al hablar de que incluso los componentes electrónicos con los que están fabricados las urnas podrían estar modificados*) mostrados en el siguiente árbol.
+En este punto se argumenta que una computadora es más confiable, pero quién argumenta esto, seguramente no es un experto en seguridad, ya que al migrar a este tipo de sistemas se heredan los riesgos operacionales de ciberseguridad (*y sin ir más lejos para no entrar en paranoía al hablar de que incluso los componentes electrónicos con los que están fabricados las urnas podrían estar modificados*) mostrados en el siguiente árbol.
 
  Estos mismos expertos argumentan que una de las muchas virtudes del sistema tradicional es que cualquier persona que sepa leer, escribir y sepa aritmética elemental puede someter el sistema a escrutinio, una característica escencial en el ejercicio de la democracia y que se pierde con la implementación de la urna, en la que se necesitan conocimientos más complejos para esta misma verificación.
 
 ![Árbol de taxonomia ROdC](material/arbol-taxonomia.png "Árbol de taxonomia ROdC")
 
-Con este simple anális nos podemos dar cuenta de que los argumentos de los simpatizantes de la urna pueden revertirse y la postura de los expertos en seguridad es clara, el voto electrónico no es confiable, y la mejor opción es el voto tradicional.
+Con este simple análisis nos podemos dar cuenta de que los argumentos de los simpatizantes de la urna pueden revertirse y la postura de los expertos en seguridad es clara, el voto electrónico no es confiable, y la mejor opción es el voto tradicional.
 
 Sin embargo, eso no ha evitado que desde la primera implementación del voto en Holanda en 1965 (y revertida en 2008) éste se abriera paso e incluso se realizaran votaciones con este sistema en  nuestro país en  elecciones piloto con urna en 2012 y en línea en 2015.
 
 Esto ha sido así, porque el voto electrónico ha sido apoyado desde distintas disciplinas, en donde presentan muchas características *con fundamentos matemáticos* como verdaderas, cuando estas *garantías* no se cumplen en la implementación.
 
-Lo más curioso, es que, desde la perspectiva de Humanidades y Ciencias Sociales una difícultad o desventaja que conlleva el uso del voto electrónico es la resistencia social [[1]](http://www.te.gob.mx/documentacion/publicaciones/Temas_selectos/14_voto.pdf), que se deriva del nivel cultural y escolaridad de los votantes, sin embargo resulta irónico que, son los expertos en seguridad los más desconfiados, y son ellos quiénes encuentran peligrosa cantidad de errores técnicos en las publicaciones de este tipo de disciplinas. [[4]](http://ru.iiec.unam.mx/4097/)
+Lo más curioso, es que, desde la perspectiva de Humanidades y Ciencias Sociales una difícultad o desventaja que conlleva el uso del voto electrónico es la resistencia social , que se deriva del nivel cultural y escolaridad de los votantes, sin embargo resulta irónico que, son los expertos en seguridad los más desconfiados, y son ellos quiénes encuentran peligrosa cantidad de errores técnicos en las publicaciones de este tipo de disciplinas. [[4]](http://ru.iiec.unam.mx/4097/)
 
 Sin embargo, hay algo muy acertado en la visión de estas disciplinas y es que,  si la adopción del voto electrónico es inminente (*como ya lo está siendo, ya sea porque las manos que tiran de hilos invisibles así lo decidieron o por que somos tan adictos a las TICs que terminan por convencernos de que es una buena idea implementar esta tendencia*)
 
