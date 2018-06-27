@@ -2,13 +2,22 @@
 ## Por Yesica Navarro (@yesn7)
 En este mes de Julio, desde *LIDSOL* queremos hablarles del tan aclamado voto electrónico, (sí, ese del que hablan [aquí](http://www.milenio.com/opinion/julian-german-molina-carrillo/sociedad-derechos-humanos/sistema-de-votacion-electronica-o-voto-electronico), [aquí](https://expansion.mx/tecnologia/2018/06/12/voto-electronico-en-mexico-se-puede-aplicar?internal_source=PLAYLIST) y [aquí](http://www.nacion321.com/elecciones/mexico-ya-ha-votado-en-urnas-electronicas-y-aqui-la-prueba) como si fuera una maravilla, y qué debería implementarse lo antes posible por sus múltiples beneficios).
 
-El **voto electrónico** es áquel que en el que se utilizan medios electrónicos, lo cuál se ilustra en el siguiente diagrama:
+El **voto electrónico** es áquel en el que (por más redundante que suene) se utilizan medios electrónicos, lo cuáles he resaltado en el siguiente diagrama:
 
 ![Principales esquemas de votación empleadas a lo largo de la historia](material/esquemas-votacion.png "Principales esquemas de votación empleadas a lo largo de la historia")
 
-En este artículo nos enfocaremos en las **urnas electrónicas**, las cuales, según sus partidarios tienen las siguientes ventajas:
+Vamos a enfocarnos en las **urnas electrónicas**, a continuación listo, los beneficios más comunmente resaltados por sus partidarios:
 - **Disminución de costos.**
-Supuestamente adquirir urnas electrónicas resulta más rentable pues se pueden reutilizar, pero eso no considera que al ser hackeables deben tener vigilancia todo el tiempo (a diferencia del proceso tradicional que se necesita vigilancia sólo algunas semanas), si hay algún proceso electoral controvertido (como el que vivimos en 2006) tendríamos que renunciar a la verdad o resguardarlas (y adquirir más), además estan los costos de capacitación, los costos de mantenimiento...
+
+Se argumenta así porque las urnas se pueden reutilizar, muy contrario al voto tradicional, donde se deben imprimir nuevas boletas en cada elección. Y aunque resulta una ilusión bastante convincente, es eso, una ilusión, pues no se estan considerando diversos factores, los cuáles son:
+  - Las urnas al ser hackeables deben tener vigilancia todo el tiempo (a diferencia del proceso tradicional que se necesita vigilancia sólo algunas semanas)
+  - Si hay algún proceso electoral controvertido (como el que vivimos en 2006) tendríamos que renunciar a la verdad o resguardarlas (y adquirir más)
+  - Costos de desarrollo
+  - Costos de capacitación en seguridad digital a los operadores
+  - Viabilidad de traslado
+  - ... y la lista sigue en [[2]](http://ru.iiec.unam.mx/110/)
+
+
 - **Agilidad en la obtención de resultados.**
 Y aunque suena verdadera porque una computadora es más rápida contando, contar los votos es sólo parte de las cosas que se tienen que hacer (y no hay forma de conectar vía internet las urnas por el peligro de seguridad que esto supone), así que después de obtener los resultados, el resto del proceso aún incluye una comunicación manual de comunicación de los resultados al centro de control de la autoridad electoral, así que en conteo de votos te ahorras aproximadamente sólo dos horas.
 - **Confiabilidad de los actores.** En este punto se argumenta que una computadora es más confiable, pero quién argumenta esto, seguramente no es un experto en seguridad, y es que migrar a este tipo de sistema significa heredar los riesgos operacionales de ciberseguridad (*y sin ir más lejos para no sonar como una loca al hablar de que incluso los componentes electrónicos con los que están fabricados las urnas podrían estar intervenidos*) mostrados en el siguiente árbol. Además estos mismos expertos argumentan que una de las muchas virtudes del sistema tradicional es que cualquier persona que sepa leer, escribir y sepa aritmética elemental puede someter el sistema a escrutinio, una característica escencial en el ejercicio de la democracia.  
@@ -30,22 +39,22 @@ Debe comenzar un trabajo **real** multidisciplinario, en donde los expertos en d
 **#HáganloMejor**
 
 ## Referencias
-Todas las imágenes de este artículo fueron reproducidas con el consentimiento expreso del Mtro. Gunnar Eyal Wolf Iszevich del trabajo [Análisis Comparativo de Incidentes en la Aplicación del Voto Electrónico](http://ru.iiec.unam.mx/4097/).
+Todas las imágenes de este artículo fueron reproducidas con el consentimiento expreso del Mtro. Gunnar Eyal Wolf Iszevich del trabajo [[1] Análisis Comparativo de Incidentes en la Aplicación del Voto Electrónico](http://ru.iiec.unam.mx/4097/).
 
-[ Wolf, Gunnar (2010): Voto electrónico: Un peligro para la democracia. Ventana Informática (23). pp. 181-195. ISSN 0123-9678 ](http://ru.iiec.unam.mx/110/)
+[[2] Wolf, Gunnar (2010): Voto electrónico: Un peligro para la democracia. Ventana Informática (23). pp. 181-195. ISSN 0123-9678 ](http://ru.iiec.unam.mx/110/)
 
-[ Wolf, Gunnar (2011): Voto electrónico: ¿quién tiene realmente la decisión? In: Construcción Colaborativa del Conocimiento. Universidad Nacional Autónoma de México. Instituto de Investigaciones Económicas, pp. 285-301. ISBN 978-607-02-2373-0 ](http://ru.iiec.unam.mx/2358/)
+[[3] Wolf, Gunnar (2011): Voto electrónico: ¿quién tiene realmente la decisión? In: Construcción Colaborativa del Conocimiento. Universidad Nacional Autónoma de México. Instituto de Investigaciones Económicas, pp. 285-301. ISBN 978-607-02-2373-0 ](http://ru.iiec.unam.mx/2358/)
 
-[ Wolf, Gunnar (2012): Voto Electrónico, 2012: ¿Cómo vamos? Software Gurú (37). pp. 44-45. ](http://ru.iiec.unam.mx/1812/)
+[[4] Wolf, Gunnar (2012): Voto Electrónico, 2012: ¿Cómo vamos? Software Gurú (37). pp. 44-45. ](http://ru.iiec.unam.mx/1812/)
 
-[ Wolf, Gunnar (2012): México, el voto electrónico y el 2012. Revista .Seguridad: Cultura de prevención para TI (14). ](http://ru.iiec.unam.mx/1813/)
+[[5] Wolf, Gunnar (2012): México, el voto electrónico y el 2012. Revista .Seguridad: Cultura de prevención para TI (14). ](http://ru.iiec.unam.mx/1813/)
 
-[Soldevilla, Fernando Tuesta (2004). “El voto electrónico”. En: Elecciones. Oficina Nacional de Procesos Electorales, págs. 55-80.](https://www.web.onpe.gob.pe/modEducacion/Publicaciones/L-0026.pdf#page=51)
+[[6] Soldevilla, Fernando Tuesta (2004). “El voto electrónico”. En: Elecciones. Oficina Nacional de Procesos Electorales, págs. 55-80.](https://www.web.onpe.gob.pe/modEducacion/Publicaciones/L-0026.pdf#page=51)
 
-[Romero Flores, Rodolfo y Julio Alejandro Téllez Valdés (2010).Voto electrónico, derecho y otras implicacio-
+[[7] Romero Flores, Rodolfo y Julio Alejandro Téllez Valdés (2010).Voto electrónico, derecho y otras implicacio-
 nes. Universidad Nacional Autónoma de México. isbn: 978-60-7021-297-0](https://archivos.juridicas.unam.mx/www/bjv/libros/6/2801/2.pdf)
 
-[Téllez Valdés, Julio. (2010). El voto electrónico. Serie Temas Selectos de Derecho Electoral; 14, 59 pp. ](http://www.te.gob.mx/documentacion/publicaciones/Temas_selectos/14_voto.pdf)
+[[8] Téllez Valdés, Julio. (2010). El voto electrónico. Serie Temas Selectos de Derecho Electoral; 14, 59 pp. ](http://www.te.gob.mx/documentacion/publicaciones/Temas_selectos/14_voto.pdf)
 
 ### PD.
 Este es un artículo divulgativo y espero que le sirva a cada lector como una mera introducción (de ahí su nombre) a este tema, por lo me gustaría que el o la lectora fuera más allá, y lea las referencias, porque hay muchas cosas que por espacio (y tiempo) no pude añadir, como el hecho de que una persona podía con un detector de ondas electrómagneticas conocer por quién se votaba, o el hecho de *Las urnas electrónicas utilizadas en Tuxcueca, fueron pantallas
