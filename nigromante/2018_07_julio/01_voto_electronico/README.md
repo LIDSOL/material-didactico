@@ -19,14 +19,23 @@ Se argumenta así porque las urnas se pueden reutilizar, muy contrario al voto t
 
 
 - **Agilidad en la obtención de resultados.**
-Y aunque suena verdadera porque una computadora es más rápida contando, contar los votos es sólo parte de las cosas que se tienen que hacer (y no hay forma de conectar vía internet las urnas por el peligro de seguridad que esto supone), así que después de obtener los resultados, el resto del proceso aún incluye una comunicación manual de comunicación de los resultados al centro de control de la autoridad electoral, así que en conteo de votos te ahorras aproximadamente sólo dos horas.
-- **Confiabilidad de los actores.** En este punto se argumenta que una computadora es más confiable, pero quién argumenta esto, seguramente no es un experto en seguridad, y es que migrar a este tipo de sistema significa heredar los riesgos operacionales de ciberseguridad (*y sin ir más lejos para no sonar como una loca al hablar de que incluso los componentes electrónicos con los que están fabricados las urnas podrían estar intervenidos*) mostrados en el siguiente árbol. Además estos mismos expertos argumentan que una de las muchas virtudes del sistema tradicional es que cualquier persona que sepa leer, escribir y sepa aritmética elemental puede someter el sistema a escrutinio, una característica escencial en el ejercicio de la democracia.  
+
+Esta percepción es así, porque creemos que al realizarse con una computadora todo será más rápido, sin embargo las urnas electrónicas son dispositivos que **no** se conectan a internet [[2]](http://ru.iiec.unam.mx/110/) y por ahora son sólo una herramienta de conteo de votos,  y aún se debe hacer una comunicación manual de los resultados obtenidos por la urna al centro de control de la autoridad electoral, es decir, el tiempo de disminución de proceso electoral son aproximadamente dos horas.
+
+- **Confiabilidad de los actores.**
+
+En este punto se argumenta que una computadora es más confiable, pero quién argumenta esto, seguramente no es un experto en seguridad, ya que al migrar a este tipo de sistemas se heredan los riesgos operacionales de ciberseguridad (*y sin ir más lejos para no sonar como una loca al hablar de que incluso los componentes electrónicos con los que están fabricados las urnas podrían estar modificados*) mostrados en el siguiente árbol.
+
+ Estos mismos expertos argumentan que una de las muchas virtudes del sistema tradicional es que cualquier persona que sepa leer, escribir y sepa aritmética elemental puede someter el sistema a escrutinio, una característica escencial en el ejercicio de la democracia y que se pierde con la implementación de la urna, en la que se necesitan conocimientos más complejos para esta misma verificación.
 
 ![Árbol de taxonomia ROdC](material/arbol-taxonomia.png "Árbol de taxonomia ROdC")
+Con este simple anális nos podemos dar cuenta de que los argumentos de los simpatizantes de la urna pueden revertirse y la postura de los expertos en seguridad es clara, el voto electrónico no es confiable, y la mejor opción es el voto tradicional.  
 
-La postura de los expertos en seguridad es clara, el voto electrónico no es confiable y la mejor opción es el voto tradicional, sin embargo, eso no ha evitado que desde la primera implementación del voto en Holanda en 1965 (y revertida en 2008) éste se abriera paso e incluso se realizaran votaciones con este sistema en  nuestro país en  elecciones piloto con urna en 2012 y en línea en 2015.
+Sin embargo, eso no ha evitado que desde la primera implementación del voto en Holanda en 1965 (y revertida en 2008) éste se abriera paso e incluso se realizaran votaciones con este sistema en  nuestro país en  elecciones piloto con urna en 2012 y en línea en 2015.
 
-Esto ha sido así porque el voto electrónico ha sido apoyado desde distintas disciplinas, en donde presentan muchas características *con fundamentos matemáticos* como verdaderas, cuando estas *garantías* no se cumplen en la implementación.
+Esto ha sido así, porque el voto electrónico ha sido apoyado desde distintas disciplinas, en donde presentan muchas características *con fundamentos matemáticos* como verdaderas, cuando estas *garantías* no se cumplen en la implementación.
+
+
 
 Lo más curioso, es que un argumento común desde las disciplinas de Humanidades y Ciencias Sociales es que una de las dificultades que se presentan ante el voto electrónico es la resistencia social, la desconfianza que generan los medios electrónicos el electorado, derivada de las distintas clases económicas y educación, sin embargo resulta irónico que, son los expertos en seguridad los más desconfiados, y son ellos quiénes encuentran peligrosa cantidad de errores técnicos en sus publicaciones.
 
