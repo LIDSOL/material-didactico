@@ -35,6 +35,8 @@ uso personal y académico. Se asesorará de acuerdo a las necesidades de cada pe
 
 ![Cartel](./conferencias/03_privacidad/03-privacidad.png)
 
+[Cartel en PDF](./conferencias/03_privacidad/03-privacidad.pdf)
+![Cartel](./conferencias/03_privacidad/03-privacidad.png)
 # Talleres
 
 - **OpenScad para diseño de módelos parametrizables 2D y 3D** en la sala de Microsoft Research, Edificio Q, segundo piso. Este taller consiste en la presentación de OpenScad para el modelado parametrizable 2D y 3D, el cuál sirve para la elaboración de planos que puedan ser manufacturados en máquinas de diseño (cortadora láser e impresora 3D).
