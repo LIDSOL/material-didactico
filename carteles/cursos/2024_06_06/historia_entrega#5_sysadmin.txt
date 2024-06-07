@@ -1,0 +1,4 @@
+Metodología: 
+- Teórico-práctico con ejercicios y proyecto final. 
+- Aprende haciendo. 
+#Metodología #Sysadmin #GNU #Linux
