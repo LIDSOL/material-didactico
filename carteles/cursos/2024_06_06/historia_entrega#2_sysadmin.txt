@@ -1,0 +1,8 @@
+###Resumen del temario: 
+##Comandos básicos
+##Administración de servicios
+##Redes
+##Más
+###¡Aprende con nosotros! 
+# https://mmedia1.fi-b.unam.mx/
+#Sysadmin #GNU #Linux
