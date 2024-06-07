@@ -1,0 +1,4 @@
+Requisitos: 
+- Conocimientos básicos de GNU/Linux y computadora con Debian 12. 
+¡Prepárate! 
+#Requisitos #Curso #Sysadmin
